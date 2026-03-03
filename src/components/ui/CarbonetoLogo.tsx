@@ -7,7 +7,7 @@ export const CarbonetoLogo = ({
 }) => {
   return (
     <img 
-      src="assets/lc.png" 
+      src="assets/lc.webp" 
       alt="Carboneto logo" 
       className={className}
     />

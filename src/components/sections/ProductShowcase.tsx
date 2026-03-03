@@ -8,22 +8,22 @@ export const ProductShowcase = () => {
     {
       title: t.product.feature1.title,
       description: t.product.feature1.desc,
-      image: 'assets/training.png'
+      image: 'assets/training.webp'
     },
     {
       title: t.product.feature2.title,
       description: t.product.feature2.desc,
-      image: 'assets/stats.png'
+      image: 'assets/stats.webp'
     },
     {
       title: t.product.feature3.title,
       description: t.product.feature3.desc,
-      image: 'assets/categories.png'
+      image: 'assets/categories.webp'
     },
     {
       title: t.product.feature4.title,
       description: t.product.feature4.desc,
-      image: 'assets/treinogoing.png'
+      image: 'assets/treinogoing.webp'
     }
   ];
 

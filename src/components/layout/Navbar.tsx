@@ -28,10 +28,10 @@ export const Navbar = () => {
 
   const getFlag = (lang: Language) => {
     switch (lang) {
-      case 'en': return 'assets/usa.png';
-      case 'pt': return 'assets/brasil.png';
-      case 'es': return 'assets/spain.png';
-      default: return 'assets/usa.png';
+      case 'en': return 'assets/usa.webp';
+      case 'pt': return 'assets/brasil.webp';
+      case 'es': return 'assets/spain.webp';
+      default: return 'assets/usa.webp';
     }
   };
 

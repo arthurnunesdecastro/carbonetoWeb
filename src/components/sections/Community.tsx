@@ -56,7 +56,7 @@ export const Community = () => {
             {/* Phone image */}
             <div className="relative z-10 transform rotate-[-6deg]">
               <img
-                src="assets/perfil.png"
+                src="assets/perfil.webp"
                 alt="Community Feed"
                 className="h-[380px] md:h-[480px] lg:h-[540px] w-auto shadow-2xl mx-auto"
               />
@@ -67,7 +67,7 @@ export const Community = () => {
               {/* Coach card */}
               <div className="bg-white text-gray-900 p-3 rounded-xl shadow-xl">
                 <div className="flex items-center gap-2 mb-2">
-                  <img src="assets/coach.png" className="w-7 h-7 rounded-full object-cover flex-shrink-0" />
+                  <img src="assets/coach.webp" className="w-7 h-7 rounded-full object-cover flex-shrink-0" />
                   <div className="font-bold font-display text-sm">{t.community.coachName}</div>
                 </div>
                 <p className="text-xs text-gray-600 leading-relaxed">"{t.community.coachMessage}"</p>
@@ -76,7 +76,7 @@ export const Community = () => {
               {/* PR Alert card */}
               <div className="bg-gray-900 text-white p-3 rounded-xl shadow-xl border border-gray-700">
                 <div className="flex items-center gap-2 mb-2">
-                  <img src="assets/profile.jpg" className="w-7 h-7 rounded-full object-cover flex-shrink-0" />
+                  <img src="assets/profile.webp" className="w-7 h-7 rounded-full object-cover flex-shrink-0" />
                   <div className="font-bold font-display text-sm">{t.community.prName}</div>
                 </div>
                 <p className="text-xs text-gray-400 leading-relaxed">{t.community.prMessage}</p>
@@ -87,7 +87,7 @@ export const Community = () => {
             <div className="hidden lg:block">
               <div className="absolute -right-4 bottom-12 z-20 bg-white text-gray-900 p-4 rounded-xl shadow-xl max-w-xs transform rotate-[3deg]">
                 <div className="flex items-center gap-3 mb-2">
-                  <img src="assets/coach.png" className="w-8 h-8 rounded-full object-cover" />
+                  <img src="assets/coach.webp" className="w-8 h-8 rounded-full object-cover" />
                   <div className="font-bold font-display">{t.community.coachName}</div>
                 </div>
                 <p className="text-sm text-gray-600">"{t.community.coachMessage}"</p>
@@ -95,7 +95,7 @@ export const Community = () => {
 
               <div className="absolute -left-8 top-24 z-0 bg-gray-900 text-white p-4 rounded-xl shadow-xl max-w-xs transform rotate-[-3deg] border border-gray-700">
                 <div className="flex items-center gap-3 mb-2">
-                  <img src="assets/profile.jpg" className="w-8 h-8 rounded-full object-cover" />
+                  <img src="assets/profile.webp" className="w-8 h-8 rounded-full object-cover" />
                   <div className="font-bold font-display">{t.community.prName}</div>
                 </div>
                 <p className="text-sm text-gray-400">{t.community.prMessage}</p>

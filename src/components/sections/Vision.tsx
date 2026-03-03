@@ -42,7 +42,7 @@ export const Vision = () => {
             {/* Background Image */}
             <div className="absolute inset-0 z-0">
               <img 
-                src="assets/future1.png" 
+                src="assets/future1.webp" 
                 alt="" 
                 className="w-full h-full object-cover opacity-100 group-hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
@@ -70,7 +70,7 @@ export const Vision = () => {
             {/* Background Image */}
             <div className="absolute inset-0 z-0">
               <img 
-                src="assets/future2.png" 
+                src="assets/future2.webp" 
                 alt="" 
                 className="w-full h-full object-cover opacity-100 group-hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
@@ -98,7 +98,7 @@ export const Vision = () => {
             {/* Background Image */}
             <div className="absolute inset-0 z-0">
               <img 
-                src="assets/future3.png" 
+                src="assets/future3.webp" 
                 alt="" 
                 className="w-full h-full object-cover opacity-60 group-hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"
@@ -126,7 +126,7 @@ export const Vision = () => {
             {/* Background Image */}
             <div className="absolute inset-0 z-0">
               <img 
-                src="assets/future4.png" 
+                src="assets/future4.webp" 
                 alt="" 
                 className="w-full h-full object-cover opacity-50 group-hover:scale-105 transition-transform duration-700"
                 referrerPolicy="no-referrer"

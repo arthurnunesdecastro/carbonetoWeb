@@ -16,7 +16,7 @@ export const FinalCTA = () => {
             viewport={{ once: true }}
             className="bg-white w-20 h-20 rounded-2xl flex items-center justify-center mb-8 shadow-lg"
           >
-            <img src="assets/logo_blue.png" alt="Carboneto Logo" className="rounded-[12px]" />
+            <img src="assets/logo_blue.webp" alt="Carboneto Logo" className="rounded-[12px]" />
           </motion.div>
           
           <motion.h2 
@@ -50,7 +50,7 @@ export const FinalCTA = () => {
             <a href="#" className="bg-black text-white px-6 py-3 rounded-full flex items-center gap-3 hover:bg-gray-900 transition-transform hover:scale-105 active:scale-95 shadow-xl">
               <div className="w-9 flex justify-center">
                 <img
-                  src="/assets/apple.png"
+                  src="/assets/apple.webp"
                   alt="Apple"
                   className="h-9 w-auto"
                 />
@@ -65,7 +65,7 @@ export const FinalCTA = () => {
             <a href="#" className="bg-black text-white px-6 py-3 rounded-full flex items-center gap-3 hover:bg-gray-900 transition-transform hover:scale-105 active:scale-95 shadow-xl">
               <div className="w-9 flex justify-center">
                 <img
-                  src="/assets/play.png"
+                  src="/assets/play.webp"
                   alt="Google Play"
                   className="h-9 w-auto"
                 />
@@ -89,7 +89,7 @@ export const FinalCTA = () => {
             transition={{ duration: 0.8 }}
             className="absolute top-[-10%] right-[-10%] transform rotate-[-15deg] scale-75 md:scale-90 z-10"
           >
-            <img src="assets/home.png" alt="Stats" className="h-[600px] w-auto shadow-2xl" />
+            <img src="assets/home.webp" alt="Stats" className="h-[600px] w-auto shadow-2xl" />
           </motion.div>
 
           {/* Phone 2 (Main Center) */}
@@ -100,7 +100,7 @@ export const FinalCTA = () => {
             transition={{ duration: 0.8, delay: 0.1 }}
             className="absolute top-[10%] left-[10%] md:left-[-10%] transform rotate-[10deg] scale-90 md:scale-100 z-20"
           >
-            <img src="assets/first.png" alt="Workout" className="h-[600px] w-auto shadow-2xl" />
+            <img src="assets/first.webp" alt="Workout" className="h-[600px] w-auto shadow-2xl" />
           </motion.div>
 
           {/* Phone 3 (Bottom Right) */}
@@ -111,7 +111,7 @@ export const FinalCTA = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="absolute bottom-[-20%] right-[10%] transform rotate-[-5deg] scale-75 md:scale-90 z-10"
           >
-            <img src="assets/created.png" alt="Profile" className="h-[600px] w-auto shadow-2xl" />
+            <img src="assets/created.webp" alt="Profile" className="h-[600px] w-auto shadow-2xl" />
           </motion.div>
 
         </div>
