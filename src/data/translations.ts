@@ -366,7 +366,7 @@ export const translations = {
       },
     },
     philosophy: {
-      title: 'O legado exige repetição.',
+      title: 'Legado se constrói todo dia.',
       line1: 'A grandeza não é um acidente.',
       line2: 'É método.',
       line3: 'É precisão.',
