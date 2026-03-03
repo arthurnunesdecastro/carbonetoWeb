@@ -328,7 +328,7 @@ export const translations = {
     },
     community: {
       title: 'Onde a Elite Treina',
-      desc: 'Carboneto não é rede social. É referência. Cada repetição, cada treino, cada conquista — tudo verificado. Sem distrações. Sem ruído. Só evolução real.',
+      desc: 'Carboneto não um app de treino. É referência. Cada repetição, cada treino, cada conquista — tudo verificado. Sem distrações. Sem ruído. Só evolução real.',
       item1: {
         title: 'Resultados Reais',
         desc: 'Cada dado registrado em tempo real. Nada de aparência: cada repetição conta, cada progresso é autêntico.'
