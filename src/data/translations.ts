@@ -88,7 +88,7 @@ export const translations = {
       getItOn: 'GET IT ON',
     },
     footer: {
-      tagline: 'Designed to support weight loss, strength, and sustainable health for the modern athlete.',
+      tagline: 'The technology behind the modern athlete. High performance, focus, and constant evolution.',
       pages: 'Pages',
       menus: 'Menus',
       information: 'Information',
